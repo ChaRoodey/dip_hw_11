@@ -34,4 +34,3 @@ if __name__ == '__main__':
     manager.new_task("поесть", 2)
     manager.new_task("сдать ДЗ", 2)
     print(manager)
-
