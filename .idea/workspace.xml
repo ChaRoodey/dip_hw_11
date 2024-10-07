@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f76cbaff-147a-42b9-a1ef-9642dd22aff9" name="Changes" comment="Task_1 completed">
-      <change afterPath="$PROJECT_DIR$/task_2_elments.py" afterDir="false" />
+    <list default="true" id="f76cbaff-147a-42b9-a1ef-9642dd22aff9" name="Changes" comment="Task_2 completed">
+      <change afterPath="$PROJECT_DIR$/task_3_rectangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +37,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.task_1_matrix.executor": "Run",
+    "Python.task_2_elments.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.task_2_elments">
     <configuration name="task_1_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dip_hw_11" />
       <option name="ENV_FILES" value="" />
@@ -64,8 +65,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_2_elments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dip_hw_11" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_2_elments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_2_elments" />
         <item itemvalue="Python.task_1_matrix" />
       </list>
     </recent_temporary>
@@ -94,11 +118,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728301638880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task_2 completed">
+      <option name="closed" value="true" />
+      <created>1728302833097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728302833097</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task_1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_1 completed" />
+    <MESSAGE value="Task_2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_2 completed" />
   </component>
 </project>
